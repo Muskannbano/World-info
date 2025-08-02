@@ -46,6 +46,9 @@ a {
     color: #2e86c1;
   }
 }
+.navlink{
+  text-decoration: none;
+}
 
 button {
   display: flex;
